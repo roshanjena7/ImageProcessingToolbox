@@ -27,30 +27,6 @@ ImageProcessingToolbox/
 ├── functions/      # Image processing functions
 ├── examples/       # Sample images
 
-⚙️ Installation & Usage
-
-Clone this repository:
-
-git clone https://github.com/YOUR_USERNAME/ImageProcessingToolbox.git
-
-
-Open MATLAB and run:
-
-main
-
-
-Click Load Image, then choose a filter from the dropdown menu.
-
-🔄 Workflow
-
-🖼 Screenshots
-GUI Interface
-
-Example Results
-
-Original → Grayscale → Edge Detection → Histogram Equalization
-
-(Add images here when you generate them.)
 
 📜 License
 
